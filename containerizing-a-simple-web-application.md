@@ -1,7 +1,7 @@
 ## __CONTAINERIZING A SIMPLE WEB APPLICATION USING DOCKER AND HOST IMAGE IN DOCKERHUB__
 
-In this Project we wil be containerizing a simple web application - __MINI FINANCE TEMPLATE__ from [www.tooplate.com](https://www.tooplate.com/). I will be hosting is with on __apache__ service running in an ubuntu container.
-This image will be hosted on Dockerhub.
+In this Project, I will be containerizing a simple web application - __MINI FINANCE TEMPLATE__ from [www.tooplate.com](https://www.tooplate.com/). This will be hosted on __apache__ service running in an ubuntu container and the image will be hosted on Dockerhub.
+
 
 __TASKS:__
  - Install __wget__ and __unzip__.
