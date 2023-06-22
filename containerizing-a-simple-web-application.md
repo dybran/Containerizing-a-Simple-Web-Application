@@ -90,4 +90,4 @@ This image can be used by anyone to host the __MINI FINANCE__ website by running
 
 `$ docker pull dybran/mini_finance:tagname`
 
-I have successfully containerized a simple website template and hosted the image on dockerhub. I will be [__containerizing a Three tier application webstack__]() in the next project.
+I have successfully containerized a simple website template and hosted the image on dockerhub. I will be __containerizing a Three tier application webstack__ in the [next project](https://github.com/dybran/Containerizing-an-Application-using-Docker).
